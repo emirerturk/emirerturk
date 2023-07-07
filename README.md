@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working position Backend<br>🌱 I’m currently learning PHP , Laravel<br>
+🤝 I’m currently working at Argenova<br>🔭 I’m currently working position Backend<br>🌱 I’m currently learning PHP , Laravel<br>
 
 
 ## 🌐 Socials:
